@@ -1,0 +1,13 @@
+ipykernel
+pandas
+numpy
+requests
+matplotlib
+scikit-learn
+scipy
+
+
+
+
+
+

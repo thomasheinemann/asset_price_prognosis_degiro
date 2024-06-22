@@ -1,0 +1,15 @@
+# virtual environment
+.venv
+
+# password
+user_data.csv
+
+# pycache
+__pycache__
+
+# exclude files in "data" folder
+data/*
+prognosis.csv
+
+# exclude the folder itself by keeping a file .gitkeep
+!data/.gitkeep
