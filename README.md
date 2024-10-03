@@ -63,6 +63,7 @@ The files for the daily price datasets look like the following example:
     17:35:00,1055,168.36
 The filenames carry the date (YYYY-MM-DD) and the asset name separated by an underscore.
 Example: 2024-09-11_Amundi DAX III UCITS ETF Acc.csv
+
 2. Once enough days have been recorded, run "predict_next_daily_course_of_asset.ipynb".
 
 
