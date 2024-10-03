@@ -1,4 +1,4 @@
-# Asset Price Prognosis DeGiro
+# Asset Price Prognosis with DeGiro
 
 ### Summary
 This project aims to predict the next day's price data for an asset based on its past price evaluation.
